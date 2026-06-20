@@ -21387,5 +21387,7 @@
   "Not just books: renting a sewing machine from the library can improve democracy": "不仅仅是书籍：从图书馆租一台缝纫机可以改善民主",
   "Turns Out, There Is a Cabal of Elite Crazies Trying to Control the World": "事实证明，有一群精英疯狂分子试图控制世界",
   "Pre-2022 Books": "2022 年之前的书籍",
-  "Systemd 261 released with systemd-sysinstall, IMDSD, and storagectl": "Systemd 261 与 systemd-sysinstall、IMDSD 和 storagectl 一起发布"
+  "Systemd 261 released with systemd-sysinstall, IMDSD, and storagectl": "Systemd 261 与 systemd-sysinstall、IMDSD 和 storagectl 一起发布",
+  "Epoll vs. Io_uring in Linux": "Linux 中的 Epoll 与 Io_uring",
+  "Lobsters Bug Allows Unauthorized Email Access": "龙虾错误允许未经授权的电子邮件访问"
 }
