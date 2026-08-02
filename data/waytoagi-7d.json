@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T16:21:39.192852Z",
+  "generated_at": "2026-08-02T16:48:19.486555Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-08-02",
-  "count_today": 2,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-08-02",
@@ -14,15 +14,35 @@
     },
     {
       "date": "2026-08-02",
+      "title": "很多团队开发Agent，注意力都放在模型、MCP、Skills和Harness 上，但真正容易被忽略的是：公司的规则、业务定义、历史经验，到底该用什么格式交给Agent，才能长期维护、迁移和验证。这篇文章把Google Cloud推出的OKF讲得很清楚。它有点像AI时代的“HTML”，把组织知识整理成可打开、可审查、可版本管理的Knowledge Bundle。未来企业真正沉淀下来的资产，可能是一套持续更新的可信知识层。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "很多做出海和内容增长的人，会把Reddit当成发帖渠道，结果辛苦发完没人看，还容易被当广告。这篇文章系统分析了Reddit平台的SEO与GEO增长机会，适合内容运营团队拿来做选题和获客。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-02",
       "title": "Anthropic、OpenAI 和 DeepSeek 正在向同一个想法靠拢：将系统提示词用作奖励函数。下面会从 RLHF 一路讲到 RULER，拆解强化学习在智能体上的演进，并保留对应代码。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 38,
   "updates_7d": [
     {
       "date": "2026-08-02",
       "title": "本周「AI 论文精选」把智能体工程、模型训练、安全监控和算力优化串了起来：NOOA把Agent写成Python 对象，ACM让智能体自己管理上下文，ReOPD复用教师轨迹降低训练成本，JAXBench提醒大家“文档和搜索”对工具调用很关键，还覆盖不可见推理、文件系统记忆、角色漂移等风险点。来看看哪些思路已经能迁移到真实项目里。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "很多团队开发Agent，注意力都放在模型、MCP、Skills和Harness 上，但真正容易被忽略的是：公司的规则、业务定义、历史经验，到底该用什么格式交给Agent，才能长期维护、迁移和验证。这篇文章把Google Cloud推出的OKF讲得很清楚。它有点像AI时代的“HTML”，把组织知识整理成可打开、可审查、可版本管理的Knowledge Bundle。未来企业真正沉淀下来的资产，可能是一套持续更新的可信知识层。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "很多做出海和内容增长的人，会把Reddit当成发帖渠道，结果辛苦发完没人看，还容易被当广告。这篇文章系统分析了Reddit平台的SEO与GEO增长机会，适合内容运营团队拿来做选题和获客。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
