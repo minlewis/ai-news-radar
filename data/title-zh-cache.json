@@ -30735,5 +30735,9 @@
   "Anthropic confirmed it is designing custom chips for Claude. It wants engineers who have “shipped silicon.”": "Anthropic 证实正在为 Claude 设计定制芯片。它需要那些“运送过芯片”的工程师。",
   "I'm switching my phone from Android to Linux": "我正在将手机从 Android 切换到 Linux",
   "Yes, absolutely. 100% without hesitation. Do people really think this is some kind of 'gotcha'? Like my brother in Christ, how much generative AI do you think we actually use?!": "是的，绝对是。 100%毫不犹豫。人们真的认为这是某种“陷阱”吗？就像我在基督里的兄弟一样，你认为我们实际上使用了多少生成式人工智能？",
-  "Proxmox VE now available for ARM64": "Proxmox VE 现在可用于 ARM64"
+  "Proxmox VE now available for ARM64": "Proxmox VE 现在可用于 ARM64",
+  "Prime Agent: A self-improving RLM agent": "Prime Agent：自我改进的 RLM 代理",
+  "OpenAI says my prepaid credits were consumed, refuses to show any record": "OpenAI 说我的预付积分已被消耗，拒绝显示任何记录",
+  "Phishers are hijacking legitimate cloud infrastructure": "网络钓鱼者正在劫持合法的云基础设施",
+  "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod": "启动 HN：HyperProbe (YC S26) – 在产品中进行只读调试的代理"
 }
