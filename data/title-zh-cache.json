@@ -31894,5 +31894,8 @@
   "Brad Lightcap, a Top OpenAI Executive, Steps Down": "OpenAI 高管 Brad Lightcap 辞职",
   "Google’s Gemini app surges to one billion users": "谷歌 Gemini 应用用户数量激增至 10 亿",
   "Abbott partners with Google Health for AI-powered glucose monitoring": "Abbott 与 Google Health 合作进行人工智能血糖监测",
-  "Grok Bot": "格罗克机器人"
+  "Grok Bot": "格罗克机器人",
+  "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp": "Apple Silicon 和 macOS VM：使用 llama.cpp 加快 LLM 推理速度",
+  "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard": "Nvidia Nemotron 3.5 Lightning 和 NeMo Switchyard",
+  "CSS properties you should know for better text designs": "为了更好的文本设计你应该了解的 CSS 属性"
 }
