@@ -1,23 +1,63 @@
 {
-  "generated_at": "2026-09-01T15:09:08.667944Z",
+  "generated_at": "2026-09-01T15:48:57.822887Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-09-01",
-  "count_today": 1,
+  "count_today": 5,
   "updates_today": [
+    {
+      "date": "2026-09-01",
+      "title": "这篇文章把大语言模型中的静态、动态、连续批处理讲得很清楚：静态适合分类/Embedding 这类固定输出，动态用于等待窗口减少排队，连续批处理则更适合输出长度不稳定的实时流量。或许可以帮你理解为何你的 GPU 在负载下闲置，以及哪种批处理策略能解决此问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "豆包工作接上飞书后怎么用？小歪整理了10个办公场景：周报、项目排期、客户方案PPT、渠道分析、客服FAQ、经营会准备，再到商品素材、日历、朋友圈去AI味、用户访谈提纲。快来看看有没有你能用得到的？",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-09-01",
       "title": "很多人找开源模型都会刷到Hugging Face，但第一次打开很容易被各种英文、模型名劝退：资源很多，却不知道哪个能直接用、哪个要下载。这篇文章适合想试试开源AI工具、下载本地模型、找数据集和论文的小白。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "很多人准备做模型微调，第一反应是找教程、配环境、堆显卡，真上手才发现，很多基础概念还没搞明白：Base、SFT、LoRA、QLoRA、adapter、loss，这些名字都见过，但不知道各自解决什么问题。这篇文章可以作为“微调入门词典”收藏，会少走很多弯路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "作者整理了关于Agent Skill的100个问题，从技能加载机制、触发排查、描述写法、脚本/参考文件拆分，讲到跨 Claude/Codex/Gemini 迁移、安全审查和未来趋势。建议可以当工具书时常翻一翻。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 39,
   "updates_7d": [
     {
       "date": "2026-09-01",
+      "title": "这篇文章把大语言模型中的静态、动态、连续批处理讲得很清楚：静态适合分类/Embedding 这类固定输出，动态用于等待窗口减少排队，连续批处理则更适合输出长度不稳定的实时流量。或许可以帮你理解为何你的 GPU 在负载下闲置，以及哪种批处理策略能解决此问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "豆包工作接上飞书后怎么用？小歪整理了10个办公场景：周报、项目排期、客户方案PPT、渠道分析、客服FAQ、经营会准备，再到商品素材、日历、朋友圈去AI味、用户访谈提纲。快来看看有没有你能用得到的？",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-01",
       "title": "很多人找开源模型都会刷到Hugging Face，但第一次打开很容易被各种英文、模型名劝退：资源很多，却不知道哪个能直接用、哪个要下载。这篇文章适合想试试开源AI工具、下载本地模型、找数据集和论文的小白。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "很多人准备做模型微调，第一反应是找教程、配环境、堆显卡，真上手才发现，很多基础概念还没搞明白：Base、SFT、LoRA、QLoRA、adapter、loss，这些名字都见过，但不知道各自解决什么问题。这篇文章可以作为“微调入门词典”收藏，会少走很多弯路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "作者整理了关于Agent Skill的100个问题，从技能加载机制、触发排查、描述写法、脚本/参考文件拆分，讲到跨 Claude/Codex/Gemini 迁移、安全审查和未来趋势。建议可以当工具书时常翻一翻。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
