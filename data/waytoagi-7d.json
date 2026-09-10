@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-10T16:09:53.635493Z",
+  "generated_at": "2026-09-10T16:35:40.267476Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-09-10",
-  "count_today": 4,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-09-10",
@@ -26,9 +26,14 @@
       "date": "2026-09-10",
       "title": "Grok Bot 产品负责人复盘了几人团队如何在一个月做出内部原型，以及如何靠两百多位真实用户的陪跑、界面删减和底层改进，把它推向公开发布的。产品人快来一起学习下！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 33,
   "updates_7d": [
     {
       "date": "2026-09-10",
@@ -48,6 +53,11 @@
     {
       "date": "2026-09-10",
       "title": "Grok Bot 产品负责人复盘了几人团队如何在一个月做出内部原型，以及如何靠两百多位真实用户的陪跑、界面删减和底层改进，把它推向公开发布的。产品人快来一起学习下！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
