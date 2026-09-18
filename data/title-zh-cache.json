@@ -36728,5 +36728,8 @@
   "Xcode 27.1 Beta Release Notes": "Xcode 27.1 Beta 发行说明",
   "Anthropic finally adds AGENTS.md support to Claude Code": "Anthropic 最终为 Claude Code 添加了 AGENTS.md 支持",
   "We made Playwright 2x faster and 80% more token efficient": "我们使 Playwright 速度提高了 2 倍，令牌效率提高了 80%",
-  "Codex CLI 0.155.1": "法典 CLI 0.155.1"
+  "Codex CLI 0.155.1": "法典 CLI 0.155.1",
+  "Claude Code now reads AGENTS.md if there is no Claude.md": "如果没有 Claude.md，Claude 代码现在会读取 AGENTS.md",
+  "AI is getting out of hand.": "人工智能正在失控。",
+  "Classified F-35 stealth parts diverted to Hong Kong by shipper, gone missing": "F-35隐形零件被托运人转移到香港后失踪"
 }
