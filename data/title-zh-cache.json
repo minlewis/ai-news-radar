@@ -36814,5 +36814,12 @@
   "AGENTS.md support is built off of Claude Code mods, our upcoming way to customize the Claude Code harness. This is a built-in mod, but you’ll be able to build custom versions of project instructions yourself as you’d...": "AGENTS.md 支持基于 Claude Code mods 构建，这是我们即将推出的自定义 Claude Code 工具的方法。这是一个内置模组，但您将能够自己构建项目说明的自定义版本，因为您...",
   "We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. You can toggle this behavior in /config.": "我们正在向 Claude Code 添加对 AGENTS.md 的支持。从今天开始，在版本 2.1.277 中，如果文件夹中没有 CLAUDE.md，Claude 将检查并使用 AGENTS.md。您可以在 /config 中切换此行为。",
   "Jev will be super helpful for agents to make split second decisions in workflows, data classification, judgment calls, and hundreds of other use-cases in the enterprise. Here's a quick demo with Box and Jev to make th...": "Jev 将非常有助于代理在工作流程、数据分类、判断调用以及企业中的数百个其他用例中做出瞬间决策。这是一个使用 Box 和 Jev 制作的快速演示...",
-  "Why Diffusion Will Win AI Inference with Inception Co-Founder and CEO Stefano Ermon": "Inception 联合创始人兼首席执行官 Stefano Ermon 讲述为什么 Diffusion 将赢得人工智能推理"
+  "Why Diffusion Will Win AI Inference with Inception Co-Founder and CEO Stefano Ermon": "Inception 联合创始人兼首席执行官 Stefano Ermon 讲述为什么 Diffusion 将赢得人工智能推理",
+  "Mathematicians Hate AI. They Can’t Quit It": "数学家讨厌人工智能。他们无法戒烟",
+  "Dental Revenue Recovery AI": "牙科收入恢复人工智能",
+  "LOOP RUSH GPT-6 Astra Challenge": "LOOP RUSH GPT-6 阿斯特拉挑战",
+  "Naukr AI": "乔布斯人工智能",
+  "AI posters don't have to be horrible": "AI海报不一定很可怕",
+  "LSU coach Lane Kiffin was asking ChatGPT for legal advice, friend says": "朋友说，LSU 教练 Lane Kiffin 正在向 ChatGPT 寻求法律建议",
+  "Pay $39.99 once to put ChatGPT, Claude, Gemini, and more in a single workspace for life": "一次性支付 39.99 美元，即可将 ChatGPT、Claude、Gemini 等终身置于同一个工作空间中"
 }
