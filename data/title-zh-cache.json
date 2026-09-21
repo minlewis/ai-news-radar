@@ -37125,5 +37125,12 @@
   "The Wargame uses AI-generated footage to simulate Russian missile attacks on UK soil in shocking new Sky TV documentary series — 'this is not real, but it could be'": "在令人震惊的天空电视新纪录片系列中，战争游戏使用人工智能生成的镜头来模拟俄罗斯导弹对英国领土的袭击——“这不是真实的，但它可能是”",
   "The Vatican is turning its AI campaign into permanent machinery this week": "梵蒂冈本周将其人工智能运动变成永久机制",
   "How V7 gives AI agents institutional memory": "V7 如何为人工智能代理提供机构记忆",
-  "Raspberry Pi blocks changing RAM chips": "Raspberry Pi 阻止更改 RAM 芯片"
+  "Raspberry Pi blocks changing RAM chips": "Raspberry Pi 阻止更改 RAM 芯片",
+  "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem": "像物理学家一样修剪法学硕士：块去除作为伊辛优化问题",
+  "US Treasury Secretary Scott Bessent says OpenAI's Hugging Face hacking incident is \"the responsibility of the OpenAI management, not a bunch of agents\" (Yash Roy/Bloomberg)": "美国财政部长 Scott Bessent 表示 OpenAI 的 Hugging Face 黑客事件是“OpenAI 管理层的责任，而不是一群特工的责任”（Yash Roy/Bloomberg）",
+  "Nscale's S-1: Microsoft and Anthropic account for 85% of its $103B in total contract value, only $2.6B of contract value was active as of late August, and more (Bloomberg)": "Nscale 的 S-1：微软和 Anthropic 占其 103B 美元合同总价值的 85%，截至 8 月底只有 2.6B 美元的合同价值处于活跃状态，等等（彭博社）",
+  "Minecraft's toughest challenge just fell to an AI tag team that costs pennies to run": "《我的世界》最艰巨的挑战落在了一支花费几分钱运行的人工智能标签团队身上",
+  "Googlebook OS hands-on: core services like Gmail run as Trusted Web Activities via the Play Store, Gemini Nano powers some apps, and it feels like a Pixel phone (Abner Li/9to5Google)": "Googlebook OS 实践：Gmail 等核心服务通过 Play 商店作为可信网络活动运行，Gemini Nano 为一些应用程序提供支持，感觉就像 Pixel 手机 (Abner Li/9to5Google)",
+  "The first 5 Googlebook laptops are here, with an OS that blends Android and Gemini": "首批 5 款 Googlebook 笔记本电脑现已上市，其操作系统融合了 Android 和 Gemini",
+  "tokenizers v1: encode, decode and scaling, measured": "tokenizers v1：编码、解码和缩放，测量"
 }
