@@ -40427,5 +40427,8 @@
   "Google’s new SynthID website can identify AI-generated media": "谷歌新的 SynthID 网站可以识别人工智能生成的媒体",
   "Google's AI detection website is now available": "谷歌人工智能检测网站现已上线",
   "North American startup funding hit $92B in Q3, down 35% QoQ but up 50% YoY, with $61B to AI startups; there were 11 $1B+ acquisitions and IPOs remained quiet (Joanna Glasner/Crunchbase News)": "第三季度北美初创公司融资额达到 92B 美元，环比下降 35%，但同比增长 50%，其中 AI 初创公司融资额为 61B 美元；共有 11 起 10 亿美元以上的收购，IPO 仍保持沉默（Joanna Glasner/Crunchbase News）",
-  "Google Playground": "谷歌游乐场"
+  "Google Playground": "谷歌游乐场",
+  "Scaling Decision Optimization to 100 Million Variables and Beyond with mPDLP in NVIDIA cuOpt": "使用 NVIDIA cuOpt 中的 mPDLP 将决策优化扩展到 1 亿个变量甚至更多",
+  "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos": "五角大楼希望通过 5 分钟视频加速“杀伤链”人工智能采购",
+  "GitHub Incident with Git Operations, Pull Requests and Actions": "GitHub 事件与 Git 操作、拉取请求和操作"
 }
