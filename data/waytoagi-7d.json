@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-08T18:13:05.821901Z",
+  "generated_at": "2026-10-08T18:44:50.947674Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-10-08",
-  "count_today": 6,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-10-08",
@@ -29,6 +29,11 @@
     },
     {
       "date": "2026-10-08",
+      "title": "想拥有持续后台执行任务的 AI 个人助手？老金这篇实测带你吃透 OpenAI Dot。手机下发指令就能持续推进项目，无需全程值守。文中附带代码开发、课程校对、视频制作、作业审阅等真实落地案例，帮你快速上手搭建属于自己的AI助手。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-08",
       "title": "REA 是面向AI智能体的本地逆向工程工具，最近爆火，已经突破2万star。借助它，无需源码，你就能对原生二进制、Electron、.NET程序与网站做分析。还可对接Hopper/Ghidra，搭配Cursor、Claude Code等主流编程智能体，通过一句话指令，完成反编译、调用图追踪，解析目标功能逻辑，再生成适配你项目的实现代码。整套分析在本机运行，不上传二进制，支持CLI与MCP双入口，给开发者提供了从功能调研到代码复刻的完整本地逆向工作流。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
@@ -38,7 +43,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 14,
+  "count_7d": 15,
   "updates_7d": [
     {
       "date": "2026-10-08",
@@ -58,6 +63,11 @@
     {
       "date": "2026-10-08",
       "title": "最近 Opus 5.5 做动效也很火，作者做了一个地图动效的Skill，把旅行路上走过的地点都标出来。依托高德API与Opus模型，自动解析真实路线、坐标与海拔，自带11种镜头、12种视觉风格。不管是Vlog片头、自驾徒步轨迹、航线飞线还是业务区域分布图都能实现，还支持导入GPX轨迹，一键生成横屏或竖屏视频，帮你快速产出质感拉满的地理动态短片。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "想拥有持续后台执行任务的 AI 个人助手？老金这篇实测带你吃透 OpenAI Dot。手机下发指令就能持续推进项目，无需全程值守。文中附带代码开发、课程校对、视频制作、作业审阅等真实落地案例，帮你快速上手搭建属于自己的AI助手。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
