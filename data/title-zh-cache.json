@@ -40590,5 +40590,7 @@
   "Stencil AI": "人工智能模板",
   "RapVideo AI": "说唱视频人工智能",
   "OpenAI Unleashes Hundreds More Math Results Upon a Field Already In Shock": "OpenAI 在已经震惊的领域释放了数百个数学结果",
-  "People Holding Up the Internet": "人们举起互联网"
+  "People Holding Up the Internet": "人们举起互联网",
+  "The people holding up the internet": "支撑互联网的人们",
+  "Port of the TypeScript compiler, checker and lsp to Rust, by LLM": "将 TypeScript 编译器、检查器和 lsp 移植到 Rust，由 LLM 提供"
 }
