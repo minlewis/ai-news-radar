@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-10-09T17:38:10.326202Z",
+  "generated_at": "2026-10-09T18:12:42.306756Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-10-09",
-  "count_today": 3,
+  "count_today": 4,
   "updates_today": [
+    {
+      "date": "2026-10-09",
+      "title": "金九银十求职季，想做出让人眼前一亮的简历？作者这份实操教程教你借助豆包工作，把零散经历转化为可交互的3D网页简历。文中有全套可直接复用的提示词，从梳理求职经历、生成代码、调试bug，到打包成一键打开的HTML文件，帮你打造差异化创意简历。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-10-09",
       "title": "最近个人 Agent 突然火了。Google、SpaceXAI、Meta、Manus、OpenAI 五家前后发了自己的个人 Agent。那么，谁最适合当你的助理呢？一起来看看作者的这份对比分析报告！",
@@ -23,8 +28,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 18,
+  "count_7d": 19,
   "updates_7d": [
+    {
+      "date": "2026-10-09",
+      "title": "金九银十求职季，想做出让人眼前一亮的简历？作者这份实操教程教你借助豆包工作，把零散经历转化为可交互的3D网页简历。文中有全套可直接复用的提示词，从梳理求职经历、生成代码、调试bug，到打包成一键打开的HTML文件，帮你打造差异化创意简历。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-10-09",
       "title": "最近个人 Agent 突然火了。Google、SpaceXAI、Meta、Manus、OpenAI 五家前后发了自己的个人 Agent。那么，谁最适合当你的助理呢？一起来看看作者的这份对比分析报告！",
