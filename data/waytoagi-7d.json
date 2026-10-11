@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-11T17:08:35.798535Z",
+  "generated_at": "2026-10-11T17:37:20.481413Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-10-11",
-  "count_today": 3,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-10-11",
@@ -21,9 +21,14 @@
       "date": "2026-10-11",
       "title": "想低成本搭建企业AI业务中台？这篇文章拆解了卡兹克团队在飞书工作台搭建组织中台的完整方案，提供了零代码自助搭建、网页嵌入两套落地路径。覆盖权限配置、模板选用、页面编辑、发布上线全流程，搭配各类小组件与布局方案，可快速搭建千人千面的业务门户，复帮团队把AI能力落地到真实业务场景。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "作者这份实战分享，带来一套轻量化的Agent开发工作流，涵盖需求对齐、多Agent协同开发、搭建Agent友好的端到端测试环境，以及AI生成代码的评审策略。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 29,
+  "count_7d": 30,
   "updates_7d": [
     {
       "date": "2026-10-11",
@@ -38,6 +43,11 @@
     {
       "date": "2026-10-11",
       "title": "想低成本搭建企业AI业务中台？这篇文章拆解了卡兹克团队在飞书工作台搭建组织中台的完整方案，提供了零代码自助搭建、网页嵌入两套落地路径。覆盖权限配置、模板选用、页面编辑、发布上线全流程，搭配各类小组件与布局方案，可快速搭建千人千面的业务门户，复帮团队把AI能力落地到真实业务场景。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "作者这份实战分享，带来一套轻量化的Agent开发工作流，涵盖需求对齐、多Agent协同开发、搭建Agent友好的端到端测试环境，以及AI生成代码的评审策略。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
