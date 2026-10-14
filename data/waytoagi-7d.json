@@ -1,15 +1,20 @@
 {
-  "generated_at": "2026-10-14T17:38:34.157733Z",
+  "generated_at": "2026-10-14T18:12:28.645788Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-10-14",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-10-14",
       "title": "很多团队说要让 AI 接管业务，最后却只做到“生成一份报告”：资料没进系统、客户重复建档，换个对话入口，规则还可能失效。这篇文章从一场企业拜访出发，跑通了一条真实闭环：AI 读取日历确定拜访对象，调用调研 Skill 拆解商业模式和现场问题，再按 SOP 建客户主档、关联业务、归档报告，最后用定时任务扫描未来日程。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "大家总爱问，年轻人学 AI 到底能拿到什么结果？这篇专访记录了WaytoAGI校园大使吴桐与搭档蟹老板的AI创业故事。他们一边借力AI快速落地项目、承接商单，一边坚守慢节奏的人际相处，理性看待AI依赖问题，思考效率红利背后的隐患。他们的故事或许能够带给想要入局AI的年轻人更加真实的参考与启发。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -33,11 +38,16 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 34,
   "updates_7d": [
     {
       "date": "2026-10-14",
       "title": "很多团队说要让 AI 接管业务，最后却只做到“生成一份报告”：资料没进系统、客户重复建档，换个对话入口，规则还可能失效。这篇文章从一场企业拜访出发，跑通了一条真实闭环：AI 读取日历确定拜访对象，调用调研 Skill 拆解商业模式和现场问题，再按 SOP 建客户主档、关联业务、归档报告，最后用定时任务扫描未来日程。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "大家总爱问，年轻人学 AI 到底能拿到什么结果？这篇专访记录了WaytoAGI校园大使吴桐与搭档蟹老板的AI创业故事。他们一边借力AI快速落地项目、承接商单，一边坚守慢节奏的人际相处，理性看待AI依赖问题，思考效率红利背后的隐患。他们的故事或许能够带给想要入局AI的年轻人更加真实的参考与启发。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
