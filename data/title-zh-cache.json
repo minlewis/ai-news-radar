@@ -42000,5 +42000,6 @@
   "Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net Life-Positive": "过量服用抵消：为什么我销售的每一袋芬太尼都是净生命积极的",
   "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis": "Ricursive Intelligence 押注于人工智能设计的芯片，以帮助解决计算危机",
   "OpenAI agrees not to use trade secrets that Apple claims were stolen while their lawsuit plays out, and to collect forensic images of 14 employees' devices (Bloomberg)": "OpenAI 同意在诉讼进行期间不使用 Apple 声称被盗的商业机密，并收集 14 名员工设备的取证图像（彭博社）",
-  "LFM2.5-24B-A2B: Built for fast on-device agents": "LFM2.5-24B-A2B：专为快速设备上代理而构建"
+  "LFM2.5-24B-A2B: Built for fast on-device agents": "LFM2.5-24B-A2B：专为快速设备上代理而构建",
+  "Capsem – a Rust hypervisor sandboxing AI agents in air-gapped Linux VMs": "Capsem – Rust 虚拟机管理程序，在气隙 Linux 虚拟机中沙盒 AI 代理"
 }
