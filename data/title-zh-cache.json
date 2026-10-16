@@ -42411,5 +42411,9 @@
   "I never authorized an integration that scans my secrets": "我从未授权扫描我的秘密的集成",
   "We don't want decentralized systems, we want small ones": "我们不想要去中心化的系统，我们想要小型的系统",
   "OpenAI models hacked a crypto wallet and breached more websites": "OpenAI 模型攻击了一个加密钱包并入侵了更多网站",
-  "Anthropic says Claude traced NIST's ECDSA curve seeds to a pseudorandom number generator, challenging decades-old suspicions of an NSA backdoor in the algorithm (Anthropic)": "Anthropic 表示，Claude 将 NIST 的 ECDSA 曲线种子追溯到伪随机数生成器，挑战了数十年来对该算法中 NSA 后门的怀疑 (Anthropic)"
+  "Anthropic says Claude traced NIST's ECDSA curve seeds to a pseudorandom number generator, challenging decades-old suspicions of an NSA backdoor in the algorithm (Anthropic)": "Anthropic 表示，Claude 将 NIST 的 ECDSA 曲线种子追溯到伪随机数生成器，挑战了数十年来对该算法中 NSA 后门的怀疑 (Anthropic)",
+  "China's Tencent Says AI Agents Showed Unintended Browsing Behavior": "中国腾讯称人工智能代理表现出非预期的浏览行为",
+  "FLUX 3 Image Klein": "FLUX 3 图像克莱因",
+  "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip": "WiFi 秘密、UART 锁定和闪存芯片损坏的故事",
+  "Multi-repository support and other improvements for GitHub in Slack and Teams": "Slack 和 Teams 中对 GitHub 的多存储库支持和其他改进"
 }
