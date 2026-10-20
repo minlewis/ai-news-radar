@@ -42972,5 +42972,6 @@
   "Anthropic's leaked federal AI bill draws widespread criticism from AI safety advocates for being significantly weaker than the bipartisan FRONTIER Act (Shakeel Hashim/Transformer)": "Anthropic 泄露的联邦人工智能法案招致了人工智能安全倡导者的广泛批评，因为该法案明显弱于两党的《边境法案》（Shakeel Hashim/Transformer）",
   "AstraZeneca and Oracle team up on AI to find patients for drug trials": "阿斯利康和甲骨文联手人工智能寻找药物试验患者",
   "Google cloud outage takes down banks": "谷歌云服务中断导致银行瘫痪",
-  "Flock cameras spread through government deals that bypassed public scrutiny": "集群摄像机通过绕过公众监督的政府交易传播"
+  "Flock cameras spread through government deals that bypassed public scrutiny": "集群摄像机通过绕过公众监督的政府交易传播",
+  "Google open-sources TorchTPU, bringing native PyTorch support to TPUs": "谷歌开源 TorchTPU，为 TPU 带来原生 PyTorch 支持"
 }
