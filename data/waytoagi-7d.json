@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-10-28T15:07:37.390217Z",
+  "generated_at": "2026-10-28T15:34:18.112681Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-10-28",
-  "count_today": 4,
+  "count_today": 6,
   "updates_today": [
+    {
+      "date": "2026-10-28",
+      "title": "这篇文章把 Personal Agent 从 \"看着香\" 到 \"真敢用\" 之间，所有没人好意思说出口的尴尬，拆成了 100 个扎心问题。读完你会清楚知道：现在的 agent 到底能托底什么、不能碰什么，以及你下一步该往哪儿踩。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-10-28",
       "title": "这份AI原生组织实施的图解手册把社区协作拆成了一条可跑的闭环：先写清任务、责任、资料版本和授权边界；让 AI 先交小样、标出依据与缺项；人工核对后再执行、记录结果并复盘更新。如果你也想把 AI 带进团队日常的运营，值得细读。",
@@ -15,6 +20,11 @@
     {
       "date": "2026-10-28",
       "title": "还在苦恼微信群消息太多，没法随时交给 AI 复盘归档？开源工具 WeChatBridge 上线 iOS 版，借助系统分享安全导出聊天记录，还支持分批合并投递到各大模型，也能直接存入 Obsidian 长期沉淀。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "还在为录屏演示视频耗费大量时间，还需要手动剪辑而发愁？作者分享了一套巧妙方案：直接把 Screen Studio 未加密的工程文件交给 Claude Code、Codex 读取解析，无需导出 MP4。AI 自动删减口水词、调整画面缩放、更换背景、降噪加字幕，长录屏也能高效压缩并附带文稿总结。还直接给出了提示词与Skill部署的步骤，适合经常制作教程的创作者。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -28,8 +38,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 43,
+  "count_7d": 45,
   "updates_7d": [
+    {
+      "date": "2026-10-28",
+      "title": "这篇文章把 Personal Agent 从 \"看着香\" 到 \"真敢用\" 之间，所有没人好意思说出口的尴尬，拆成了 100 个扎心问题。读完你会清楚知道：现在的 agent 到底能托底什么、不能碰什么，以及你下一步该往哪儿踩。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-10-28",
       "title": "这份AI原生组织实施的图解手册把社区协作拆成了一条可跑的闭环：先写清任务、责任、资料版本和授权边界；让 AI 先交小样、标出依据与缺项；人工核对后再执行、记录结果并复盘更新。如果你也想把 AI 带进团队日常的运营，值得细读。",
@@ -38,6 +53,11 @@
     {
       "date": "2026-10-28",
       "title": "还在苦恼微信群消息太多，没法随时交给 AI 复盘归档？开源工具 WeChatBridge 上线 iOS 版，借助系统分享安全导出聊天记录，还支持分批合并投递到各大模型，也能直接存入 Obsidian 长期沉淀。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "还在为录屏演示视频耗费大量时间，还需要手动剪辑而发愁？作者分享了一套巧妙方案：直接把 Screen Studio 未加密的工程文件交给 Claude Code、Codex 读取解析，无需导出 MP4。AI 自动删减口水词、调整画面缩放、更换背景、降噪加字幕，长录屏也能高效压缩并附带文稿总结。还直接给出了提示词与Skill部署的步骤，适合经常制作教程的创作者。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
