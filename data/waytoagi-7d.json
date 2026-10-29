@@ -1,15 +1,20 @@
 {
-  "generated_at": "2026-10-29T18:09:34.113368Z",
+  "generated_at": "2026-10-29T18:36:16.471058Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-10-29",
-  "count_today": 3,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-10-29",
       "title": "这篇文章深度拆解了线性注意力从 DeltaNet、GDN 到 KDA 的演进脉络，同时落地到 vLLM 里 Hybrid 混合模型的缓存工程实现，帮你看懂模型架构和推理调度之间的软硬件取舍。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "这是面向工程师、QA 和产品经理的评估与追踪指南的第二部分，旨在帮助您测试 AI 应用的每一项变更。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -23,11 +28,16 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 34,
   "updates_7d": [
     {
       "date": "2026-10-29",
       "title": "这篇文章深度拆解了线性注意力从 DeltaNet、GDN 到 KDA 的演进脉络，同时落地到 vLLM 里 Hybrid 混合模型的缓存工程实现，帮你看懂模型架构和推理调度之间的软硬件取舍。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "这是面向工程师、QA 和产品经理的评估与追踪指南的第二部分，旨在帮助您测试 AI 应用的每一项变更。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
