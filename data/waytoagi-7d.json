@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-04T04:33:25.653187Z",
+  "generated_at": "2026-11-04T05:06:45.449800Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-11-03",
-  "count_today": 2,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-11-03",
@@ -16,9 +16,24 @@
       "date": "2026-11-03",
       "title": "卡兹克将自用的Agent自动化系统重构后，开源了Agent-Autoloop。整套架构采用插件化设计，事件、模型、通知通道均可自由接入，适配绝大多数主流Agent。文中还展示了大量可直接复用的自动化场景，个人和团队都能快速搭建自主流转、按需人工审批的智能工作流。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "作者这篇笔记梳理了快手企业 AI 落地经验，给出了一个可落地的解法：先沉淀员工经验为共享能力，再重构分工；以小团队模式压缩交付链路，搭配需求风险分级的智能质检体系，同时搭建统一底座与积分机制管控成本。这套兼顾试点试错和企业治理的思路，可以帮大小团队避开 Agent 孤岛、空转、质量失控等问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "作者这套豆包工作 + Remotion 组合依托代码来渲染生成动画，可以根据孩子年龄定制脚本、字幕与配音，讲解科学原理、历史典故，还能固化成专属技能反复调用。文中还有多套可直接复用的提示词，只需人工校验内容准确性，就能轻松做出专属启蒙动画。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "DeepSeek 刚提出的 SuperAgent 主要是在代码领域实现 Agent 的自动化。但是这套东西很难在内容创作领域运行，代码是有衡量标准的，内容没有，每个人有自己的内容风格，每天的想法灵感都在变。所以怎么样把内容也实现自动化运行，实现内容创作领域的 SuperAgent 呢？",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 29,
+  "count_7d": 32,
   "updates_7d": [
     {
       "date": "2026-11-03",
@@ -28,6 +43,21 @@
     {
       "date": "2026-11-03",
       "title": "卡兹克将自用的Agent自动化系统重构后，开源了Agent-Autoloop。整套架构采用插件化设计，事件、模型、通知通道均可自由接入，适配绝大多数主流Agent。文中还展示了大量可直接复用的自动化场景，个人和团队都能快速搭建自主流转、按需人工审批的智能工作流。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "作者这篇笔记梳理了快手企业 AI 落地经验，给出了一个可落地的解法：先沉淀员工经验为共享能力，再重构分工；以小团队模式压缩交付链路，搭配需求风险分级的智能质检体系，同时搭建统一底座与积分机制管控成本。这套兼顾试点试错和企业治理的思路，可以帮大小团队避开 Agent 孤岛、空转、质量失控等问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "作者这套豆包工作 + Remotion 组合依托代码来渲染生成动画，可以根据孩子年龄定制脚本、字幕与配音，讲解科学原理、历史典故，还能固化成专属技能反复调用。文中还有多套可直接复用的提示词，只需人工校验内容准确性，就能轻松做出专属启蒙动画。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "DeepSeek 刚提出的 SuperAgent 主要是在代码领域实现 Agent 的自动化。但是这套东西很难在内容创作领域运行，代码是有衡量标准的，内容没有，每个人有自己的内容风格，每天的想法灵感都在变。所以怎么样把内容也实现自动化运行，实现内容创作领域的 SuperAgent 呢？",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
