@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-08T15:05:01.787526Z",
+  "generated_at": "2026-11-08T15:33:02.557256Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-11-08",
-  "count_today": 2,
+  "count_today": 3,
   "updates_today": [
     {
       "date": "2026-11-08",
@@ -14,15 +14,25 @@
     },
     {
       "date": "2026-11-08",
+      "title": "让 Agent 跑个长任务，电脑一合、服务一重启，聊天记录还在，但做到哪一步却得自己重新理。作者开源了一个网页版小助手，解决的就是这种“活干到一半断了”的问题；同时还整理了大量落地踩坑细节与技术局限，适合想要搭建长期自治、稳定不掉线的个人 Agent 的开发者，拿来作为自研底座参考。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-08",
       "title": "产品经理总会被各种消息、会议和上线琐事追着跑，那么到底可以让AI接住多少活呢？Figma 的增长产品经理 Ezra 拆解了内部落地的 PM OS 工具集，包含 31 个适配产品岗的 Skill，可自主挖掘流失、闭环上线实验的Agent，还有低延迟 Jev 写作助手。如果你也想把 AI 从个人助手带进真实的团队流程里，这篇值得看看。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 40,
   "updates_7d": [
     {
       "date": "2026-11-08",
       "title": "还在苦恼Grok Bot模型降级、额度消耗快、任务容易中断？作者把Grok Bot作为调度指挥官，联动Claude、Codex承担重度任务，依托Notion看板和Cloudflare Worker搭建稳定的流转体系。配套5套开箱即用的Agent团队提示词，覆盖跨境投流、内容SEO、用户洞察、运维、产品开发，实践思路和DeepSeek Super-agent架构相通，跨境从业者可直接复用搭建自动化业务流水线。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-08",
+      "title": "让 Agent 跑个长任务，电脑一合、服务一重启，聊天记录还在，但做到哪一步却得自己重新理。作者开源了一个网页版小助手，解决的就是这种“活干到一半断了”的问题；同时还整理了大量落地踩坑细节与技术局限，适合想要搭建长期自治、稳定不掉线的个人 Agent 的开发者，拿来作为自研底座参考。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
