@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-09T17:06:14.673875Z",
+  "generated_at": "2026-11-09T17:33:18.228132Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-11-09",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-11-09",
@@ -24,6 +24,11 @@
     },
     {
       "date": "2026-11-09",
+      "title": "想大幅压减Agent的运行成本？这套Jev+Kimi K3的方案不容错过。Jev专门负责智能体里大量选择、分类这种轻量决策，响应快、价格极低，依靠校准置信度做路由；判断存疑的复杂任务自动流转给Kimi K3兜底，高危操作交由人工审核。文中附带API示例、编写规范、缺陷边界以及邮件筛查、网页浏览等实测案例，可以帮你搭建可控、省钱的智能体工作流。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-09",
       "title": "作者做了五种风格完全不同的 AI 视频：史诗短片、3D 诗意短片、认知思维、剧情故事、vibe 知识大赏。这篇每种风格挑一条代表作，给你讲清楚一个想法怎么一步步做成片子：用了哪些 AI、分几步走、每一步的提示词，还有每条片子踩过的坑。2D、3D 都有。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
@@ -33,7 +38,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 37,
   "updates_7d": [
     {
       "date": "2026-11-09",
@@ -48,6 +53,11 @@
     {
       "date": "2026-11-09",
       "title": "本周的AI 音乐周刊汇集行业诉讼、工具新品与前沿论文：Suno 遭版权方起诉，敲响 AI 音色仿制的合规警钟；ElevenLabs 打通 SoundCloud 一键分发，多款 DAW、分轨、管弦演奏工具集中更新，大幅优化制作人工作流。同时还有 5 篇高质量论文，覆盖音乐生成、音源分离、评测数据集等方向，适合音乐创作者、音频工程师快速掌握行业动态与可落地的新技术。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-09",
+      "title": "想大幅压减Agent的运行成本？这套Jev+Kimi K3的方案不容错过。Jev专门负责智能体里大量选择、分类这种轻量决策，响应快、价格极低，依靠校准置信度做路由；判断存疑的复杂任务自动流转给Kimi K3兜底，高危操作交由人工审核。文中附带API示例、编写规范、缺陷边界以及邮件筛查、网页浏览等实测案例，可以帮你搭建可控、省钱的智能体工作流。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
