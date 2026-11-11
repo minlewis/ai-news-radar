@@ -47804,5 +47804,8 @@
   "VCs are questioning the neolab math": "风险投资家正在质疑 neolab 的数学原理",
   "ByteDance is reportedly working on its own AI agent": "据报道字节跳动正在开发自己的人工智能代理",
   "Laser-armed AI submarine robots patrol Norwegian salmon farms, killing sea lice": "激光武装人工智能潜艇机器人巡逻挪威鲑鱼养殖场，消灭海虱",
-  "CVE-2026-119618 (critical): mod_HTTP2: heap corruption and RCE in assign_headers": "CVE-2026-119618（严重）：mod_HTTP2：分配头中的堆损坏和 RCE"
+  "CVE-2026-119618 (critical): mod_HTTP2: heap corruption and RCE in assign_headers": "CVE-2026-119618（严重）：mod_HTTP2：分配头中的堆损坏和 RCE",
+  "GitHub Incident with Webhooks, Actions, etc.": "与 Webhook、操作等相关的 GitHub 事件",
+  "Tools for exploring the souls of large language models": "探索大型语言模型灵魂的工具",
+  "Emacs in the Age of Magic": "魔法时代的 Emacs"
 }
