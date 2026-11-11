@@ -47807,5 +47807,20 @@
   "CVE-2026-119618 (critical): mod_HTTP2: heap corruption and RCE in assign_headers": "CVE-2026-119618（严重）：mod_HTTP2：分配头中的堆损坏和 RCE",
   "GitHub Incident with Webhooks, Actions, etc.": "与 Webhook、操作等相关的 GitHub 事件",
   "Tools for exploring the souls of large language models": "探索大型语言模型灵魂的工具",
-  "Emacs in the Age of Magic": "魔法时代的 Emacs"
+  "Emacs in the Age of Magic": "魔法时代的 Emacs",
+  "Nvidia Is Preparing to Oust Nvidia CEO Jensen Huang": "英伟达正准备罢免英伟达首席执行官黄仁勋",
+  "Anthropic is spending $3.4 billion on natural gas turbines to avoid the AI power crisis": "Anthropic 斥资 34 亿美元购买天然气涡轮机以避免人工智能电力危机",
+  "Jensen Huang Said to Have Had Relationship with Nvidia Executive": "黄仁勋据称与英伟达高管有关系",
+  "United won’t let your AI agent book your flight": "美联航不会让你的人工智能代理为你预订航班",
+  "United Airlines bans AI agents from booking flights on behalf of travelers": "联合航空禁止人工智能代理代表旅客预订航班",
+  "Why training alone can’t close the gap between AI adoption and ROI": "为什么仅靠培训无法缩小人工智能采用和投资回报率之间的差距",
+  "Play GTA5 on Browser": "在浏览器上玩 GTA5",
+  "Huawei releases MACaQ, its internal quantizer for local inference": "华为发布MACaQ，用于本地推理的内部量化器",
+  "The Utah Teapot": "犹他茶壶",
+  "Multiple remote code execution vulnerabilities in danfoss sm-800A": "丹佛斯 sm-800A 中存在多个远程代码执行漏洞",
+  "The hardest notes to find on the guitar": "吉他上最难找到的音符",
+  "Brazil's Serra Verde starts shipping heavy rare earths to US under 15-year deal": "巴西 Serra Verde 开始根据 15 年协议向美国运送重稀土",
+  "My AI agents found an unmapped Maya site": "我的 AI 代理发现了一个未映射的 Maya 站点",
+  "Codex CLI 0.167.2": "法典 CLI 0.167.2",
+  "Go Turns 17": "Go 17 岁了"
 }
