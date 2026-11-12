@@ -48003,5 +48003,8 @@
   "The Jensen Huang scandal is hardly over": "黄仁勋丑闻还没有结束",
   "Electric ship batteries promise compact, cooler power": "电动船舶电池有望提供紧凑、冷却的动力",
   "Lock Your GitHub Actions": "锁定您的 GitHub 操作",
-  "Relax: JIT compiler for Rust to reduce build times": "放松：Rust 的 JIT 编译器可减少构建时间"
+  "Relax: JIT compiler for Rust to reduce build times": "放松：Rust 的 JIT 编译器可减少构建时间",
+  "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中",
+  "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash": "谷歌推出Gemini 4 Hydrogen，最终取代3.8 Flash",
+  "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution": "22 年之久的 PostgreSQL Bug 变成了远程代码执行"
 }
