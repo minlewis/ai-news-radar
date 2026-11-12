@@ -48006,5 +48006,14 @@
   "Relax: JIT compiler for Rust to reduce build times": "放松：Rust 的 JIT 编译器可减少构建时间",
   "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中",
   "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash": "谷歌推出Gemini 4 Hydrogen，最终取代3.8 Flash",
-  "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution": "22 年之久的 PostgreSQL Bug 变成了远程代码执行"
+  "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution": "22 年之久的 PostgreSQL Bug 变成了远程代码执行",
+  "Google Antigravity adds Orchestrator, which dynamically switches between models like Carbon and Hydrogen within the same session, for AI Ultra subscribers (Google Antigravity)": "Google Antigravity 增加了 Orchestrator，它可以在同一会话中为 AI Ultra 订阅者动态切换碳模型和氢模型（Google Antigravity）",
+  "Microsoft outage: Microsoft 365, Teams, Outlook, Copilot all impacted": "Microsoft 中断：Microsoft 365、Teams、Outlook、Copilot 均受到影响",
+  "Nectar launches an AI agent to automate creator discovery and outreach for brands": "Nectar 推出人工智能代理，以自动化创作者发现和品牌推广",
+  "Anthropic lets companies run Claude’s agent service on their own servers": "Anthropic 让公司在自己的服务器上运行 Claude 的代理服务",
+  "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun": "候选矮行星出现，绕太阳运行大约需要 280 年",
+  "Google says Gemini 4 Hydrogen is available across AI Studio, the Gemini API, Search, paid AI Pro and Ultra tiers in Antigravity, and more (Abner Li/9to5Google)": "谷歌表示，Gemini 4 Hydrogen 可在 AI Studio、Gemini API、搜索、反重力领域的付费 AI Pro 和 Ultra 层等中使用 (Abner Li/9to5Google)",
+  "J.Crew launches an AI stylist built on Anthropic’s Claude": "J.Crew 推出基于 Anthropic 的 Claude 的人工智能造型师",
+  "Secret scanning detects Cloudflare service tokens": "秘密扫描检测 Cloudflare 服务令牌",
+  "Public monitoring alerts now have direct links": "公共监控警报现在有直接链接"
 }
