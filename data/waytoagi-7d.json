@@ -1,15 +1,25 @@
 {
-  "generated_at": "2026-11-14T08:07:06.492199Z",
+  "generated_at": "2026-11-14T08:33:33.015026Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-11-13",
-  "count_today": 3,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-11-13",
       "title": "这篇集结了Next Token多期沉淀的AI认知金句，围绕Token经济学、AI原生产品、Agent架构、个人品牌与组织转型展开。或许你也能从中获得审视AI生意与创作路径的新思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "用AI做图，有时候好不容易出了一张满意的，想改两个字，结果连旁边的东西都变了。再改一轮，又冒出别的问题，真挺烦的。老金这次直接拿即梦 Seedream 5.5 做实测，一起看看到底好不好用？",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "不会写代码，怎么用 AI 做出自己的第一个产品？作者用豆包工作，带你从零搓出你的第一个产品。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -23,11 +33,21 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 38,
   "updates_7d": [
     {
       "date": "2026-11-13",
       "title": "这篇集结了Next Token多期沉淀的AI认知金句，围绕Token经济学、AI原生产品、Agent架构、个人品牌与组织转型展开。或许你也能从中获得审视AI生意与创作路径的新思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "用AI做图，有时候好不容易出了一张满意的，想改两个字，结果连旁边的东西都变了。再改一轮，又冒出别的问题，真挺烦的。老金这次直接拿即梦 Seedream 5.5 做实测，一起看看到底好不好用？",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "不会写代码，怎么用 AI 做出自己的第一个产品？作者用豆包工作，带你从零搓出你的第一个产品。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
