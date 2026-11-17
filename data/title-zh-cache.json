@@ -48963,5 +48963,18 @@
   "GPT-6.2 Astra costs $8/1M input and $40/1M output tokens, down 20% from GPT-6 Astra; GPT-6.2 Sol keeps GPT-6.1 Sol's $2/1M input and $10/1M output token pricing (Zac Hall/9to5Mac)": "GPT-6.2 Astra 的输入成本为 8/100 万美元，输出代币为 40/10 万美元，比 GPT-6 Astra 下降了 20%； GPT-6.2 Sol 保持 GPT-6.1 Sol 的 2/100 万美元输入和 10/100 万美元输出代币定价 (Zac Hall/9to5Mac)",
   "Pedestal AI raises $4.7 million to agentify the supply chain": "Pedestal AI 融资 470 万美元，用于代理供应链",
   "OpenAI debuts GPT-6.2 Astra and Sol in ChatGPT Work, Codex, and API, saying Astra sets records on work and science evals at under a third of GPT-6 Astra's cost (OpenAI)": "OpenAI 在 ChatGPT Work、Codex 和 API 中首次推出 GPT-6.2 Astra 和 Sol，称 Astra 创下了工作和科学评估记录，成本不到 GPT-6 Astra 的三分之一 (OpenAI)",
-  "The Nvidia Bubble": "英伟达泡沫"
+  "The Nvidia Bubble": "英伟达泡沫",
+  "Phrack 73 Released": "Phrack 73 发布",
+  "GitHub Copilot Fusion updates: more availability, benchmarks, and models": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型",
+  "GitHub Copilot app, Microsoft Ignite releases": "GitHub Copilot 应用程序、Microsoft Ignite 发布",
+  "Copilot code review: Adaptive effort, secret detection, and more": "副驾驶代码审查：自适应工作、秘密检测等",
+  "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot": "GitHub Copilot 中的 MAI Code 2 和 MAI Code 2 Flash",
+  "GitHub Copilot in JetBrains, Ignite releases": "JetBrains 中的 GitHub Copilot、Ignite 版本",
+  "Monitor GitHub Copilot activity through Microsoft Agent 365": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动",
+  "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览",
+  "Track Copilot code review outcomes in Repository insights": "在 Repository Insights 中跟踪 Copilot 代码审查结果",
+  "GitHub Copilot Evals is now in public preview": "GitHub Copilot Evals 现已推出公共预览版",
+  "Secret scanning on demand for developers and agents": "开发商和代理商按需秘密扫描",
+  "Who Builds the Machines That Build the Machines?": "谁制造了制造机器的机器？",
+  "The Buddhist A.I. Sect That Wants to Take over Silicon Valley": "佛教人工智能想要接管硅谷的教派"
 }
