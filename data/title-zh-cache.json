@@ -48999,5 +48999,10 @@
   "Web Browser Engineering (2021)": "网络浏览器工程 (2021)",
   "Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC": "Anthropic 向卢比奥前幕僚长的公司支付了 74 万美元。它游说他的国家安全委员会",
   "GPT-6.2 Astra scores 100% on ARC-AGI-3": "GPT-6.2 Astra 在 ARC-AGI-3 上得分 100%",
-  "I hate GPT-6.2 Astra": "我讨厌 GPT-6.2 Astra"
+  "I hate GPT-6.2 Astra": "我讨厌 GPT-6.2 Astra",
+  "Pre-Training Without Learning Rate Decay": "无学习率衰减的预训练",
+  "Java4Shell: RCE in OpenJDK when processing Base64": "Java4Shell：处理 Base64 时 OpenJDK 中的 RCE",
+  "Effects of a Nuclear Detonation in Low Earth Orbit": "近地轨道核爆炸的影响",
+  "Not Everything Needs an LLM": "并非所有事情都需要法学硕士",
+  "Java4Shell: pre-auth RCE flaw in Java 17 puts servers at risk (CVE-2026-114938)": "Java4Shell：Java 17 中的预身份验证 RCE 缺陷使服务器面临风险 (CVE-2026-114938)"
 }
