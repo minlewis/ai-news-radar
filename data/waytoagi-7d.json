@@ -1,23 +1,63 @@
 {
-  "generated_at": "2026-11-18T16:33:30.057145Z",
+  "generated_at": "2026-11-18T17:05:53.643013Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-11-18",
-  "count_today": 1,
+  "count_today": 5,
   "updates_today": [
+    {
+      "date": "2026-11-18",
+      "title": "这几天梦飞刚把市面上主流的五个国产模型拉出来做了一轮横评，今天把实测结果跟大家分享一下。分别是：豆包 Seed evolving、DeepSeek V4.1 Flash、Kimi-K3.1pro、GLM-5.3-flash、腾讯 HY4。每个模型各做了 6 个网页，再去跑 4 个长程工程题。加起来一共 50 轮测试。看看各个模型的效果如何！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "如果你刚接触 Meta 的个人 AI 助手 Muse，平时可能只用它聊聊天、查资料，或者试着生成过一两张图片。但当你真的想用它做一条「能发出去的完整短视频」时，大概率会遇到人物换脸、肢体畸变、长视频慢放、额度消耗快等高频坑点。作者这篇文章分享了一些对应的解决办法，可以试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "作者把枯燥的额度列表做成了镭射分级卡牌与 ASCII 字符海洋钓鱼交互，把查羊毛变成趣味体验。而且还给出一条实用提示词，一起上手试试。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-11-18",
       "title": "《Kling Image 4.0使用指南 》Kling Image 4.0 在画面真实感、文字表现力、指令理解与一致性上实现显著提升，让光影质感更自然、图文设计更出彩、复杂构想更准确地呈现。同时，原生 8K 超高清画质带来丰富细节，连贯组图支持一次描述展开成套创作，为单张画面的精细表达与成套内容的高效创作提供更完整的支持。快来试试效果如何！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Seedance 又又又更新了，这次是火山引擎新发的 Seedance 2.5 flash，除了火山方舟能调 API，不少平台这几天也在陆续上。小歪就顺手跑了一轮，短剧、人物表演、镜头调度和风格画面都试了，一起先看看效果，最后再来聊大家最关心的积分和速度！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 31,
+  "count_7d": 35,
   "updates_7d": [
     {
       "date": "2026-11-18",
+      "title": "这几天梦飞刚把市面上主流的五个国产模型拉出来做了一轮横评，今天把实测结果跟大家分享一下。分别是：豆包 Seed evolving、DeepSeek V4.1 Flash、Kimi-K3.1pro、GLM-5.3-flash、腾讯 HY4。每个模型各做了 6 个网页，再去跑 4 个长程工程题。加起来一共 50 轮测试。看看各个模型的效果如何！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "如果你刚接触 Meta 的个人 AI 助手 Muse，平时可能只用它聊聊天、查资料，或者试着生成过一两张图片。但当你真的想用它做一条「能发出去的完整短视频」时，大概率会遇到人物换脸、肢体畸变、长视频慢放、额度消耗快等高频坑点。作者这篇文章分享了一些对应的解决办法，可以试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "作者把枯燥的额度列表做成了镭射分级卡牌与 ASCII 字符海洋钓鱼交互，把查羊毛变成趣味体验。而且还给出一条实用提示词，一起上手试试。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-18",
       "title": "《Kling Image 4.0使用指南 》Kling Image 4.0 在画面真实感、文字表现力、指令理解与一致性上实现显著提升，让光影质感更自然、图文设计更出彩、复杂构想更准确地呈现。同时，原生 8K 超高清画质带来丰富细节，连贯组图支持一次描述展开成套创作，为单张画面的精细表达与成套内容的高效创作提供更完整的支持。快来试试效果如何！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Seedance 又又又更新了，这次是火山引擎新发的 Seedance 2.5 flash，除了火山方舟能调 API，不少平台这几天也在陆续上。小歪就顺手跑了一轮，短剧、人物表演、镜头调度和风格画面都试了，一起先看看效果，最后再来聊大家最关心的积分和速度！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
