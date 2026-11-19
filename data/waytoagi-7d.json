@@ -1,23 +1,33 @@
 {
-  "generated_at": "2026-11-19T14:06:56.636539Z",
+  "generated_at": "2026-11-19T14:33:25.155660Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-11-19",
-  "count_today": 1,
+  "count_today": 2,
   "updates_today": [
     {
       "date": "2026-11-19",
       "title": "谷歌 Gemini 4 Neon 重磅上线，与氩、碳、氢模型各司其职，定位是 Agent 集群调度中枢，对标 Opus、Sol。它可以调度子代理协同攻坚，独立搭建复杂 3D 场景、前端工程，在多项基准测试中都胜过竞品。开发者们可以上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "斯坦福新课CS329Z聚焦AI Agent工程落地，围绕Harness、编排框架、记忆机制、多智能体、评测与安全搭建了一套完整体系，适合有基础的开发者系统学习。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 40,
   "updates_7d": [
     {
       "date": "2026-11-19",
       "title": "谷歌 Gemini 4 Neon 重磅上线，与氩、碳、氢模型各司其职，定位是 Agent 集群调度中枢，对标 Opus、Sol。它可以调度子代理协同攻坚，独立搭建复杂 3D 场景、前端工程，在多项基准测试中都胜过竞品。开发者们可以上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "斯坦福新课CS329Z聚焦AI Agent工程落地，围绕Harness、编排框架、记忆机制、多智能体、评测与安全搭建了一套完整体系，适合有基础的开发者系统学习。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
