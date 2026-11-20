@@ -49583,5 +49583,7 @@
   "Cincinnati Zoo's Fiona the hippo has died, days after ingesting a visitor's hat": "辛辛那提动物园的河马菲奥娜在吞下游客的帽子几天后死亡",
   "Docs: as of May 2026, the US Commerce Dept. approved sales of 879K+ AI chips to Chinese companies, including entities on the DOD's Chinese military-linked list (CNBC)": "文件：截至 2026 年 5 月，美国商务部批准向中国公司销售 879K+ 人工智能芯片，其中包括国防部中国军事关联名单上的实体 (CNBC)",
   "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)": "OpenSSL：EVP_EncodeBlock() 中的缓冲区溢出（CVE-2026-121481、CVSS 9.8）",
-  "Vint Cerf on why TCP/IP was never patented": "Vint Cerf 解释为什么 TCP/IP 从未获得专利"
+  "Vint Cerf on why TCP/IP was never patented": "Vint Cerf 解释为什么 TCP/IP 从未获得专利",
+  "Token fraud is here and it’s BAD (YouTube)": "代币欺诈就在这里，而且很糟糕 (YouTube)",
+  "Postgres 19 is out, and it's available on Neon and Databricks Lakebase": "Postgres 19 已发布，可在 Neon 和 Databricks Lakebase 上使用"
 }
