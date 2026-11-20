@@ -49585,5 +49585,7 @@
   "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)": "OpenSSL：EVP_EncodeBlock() 中的缓冲区溢出（CVE-2026-121481、CVSS 9.8）",
   "Vint Cerf on why TCP/IP was never patented": "Vint Cerf 解释为什么 TCP/IP 从未获得专利",
   "Token fraud is here and it’s BAD (YouTube)": "代币欺诈就在这里，而且很糟糕 (YouTube)",
-  "Postgres 19 is out, and it's available on Neon and Databricks Lakebase": "Postgres 19 已发布，可在 Neon 和 Databricks Lakebase 上使用"
+  "Postgres 19 is out, and it's available on Neon and Databricks Lakebase": "Postgres 19 已发布，可在 Neon 和 Databricks Lakebase 上使用",
+  "What Comes After AGI?": "AGI之后会发生什么？",
+  "High Stakes Are Strongly Typed": "高风险是强类型的"
 }
