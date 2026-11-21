@@ -49883,5 +49883,10 @@
   "Claude breaks decades-old 3SUM and all-pairs shortest paths complexity barriers": "Claude 打破了数十年之久的 3SUM 和全对最短路径复杂性障碍",
   "Dan Hendrycks calls for a pause on frontier AI, Max Hodak pushes back": "Dan Hendrycks 呼吁暂停前沿人工智能研究，Max Hodak 予以反击",
   "Satya Nadella says AI-found bugs will make outages more likely": "萨蒂亚·纳德拉 (Satya Nadella) 表示，人工智能发现的错误将导致更有可能出现中断",
-  "ICE details Princeton neuroscientist claiming asylum": "ICE 详细介绍普林斯顿大学神经科学家申请庇护"
+  "ICE details Princeton neuroscientist claiming asylum": "ICE 详细介绍普林斯顿大学神经科学家申请庇护",
+  "Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under \"ZDR\" policies, and saw \"privacy\" often broken, keys stolen (Dan Goodin/Ars Technica)": "研究人员在向 OpenRouter 和 Vercel 等 AI 路由器发出请求时使用金丝雀凭证，即使在“ZDR”政策下也是如此，并且发现“隐私”经常被破坏、密钥被盗（Dan Goodin/Ars Technica）",
+  "Nearly all software teams admit to shipping AI-generated code as study finds verification 'has not kept pace with that shift'": "几乎所有软件团队都承认交付人工智能生成的代码，因为研究发现验证“没有跟上这种转变的步伐”",
+  "Anthropic employee claims to have proven the most famous math problem using Claude": "Anthropic员工声称已经用克劳德证明了最著名的数学问题",
+  "Days after Nvidia CEO Jensen Huang resigned, journalists unearth covert influence operation using right-wing outlets to promote Nvidia AI chip export to...China": "英伟达首席执行官黄仁勋辞职几天后，记者揭露了利用右翼媒体的秘密影响行动，以促进英伟达人工智能芯片向中国出口",
+  "GTA VI is building behavioral profiles of those who play": "GTA VI 正在建立玩家的行为档案"
 }
