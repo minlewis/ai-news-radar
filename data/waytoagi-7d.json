@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-22T18:06:56.936458Z",
+  "generated_at": "2026-11-22T18:33:19.457285Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-11-22",
-  "count_today": 5,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-11-22",
@@ -24,7 +24,17 @@
     },
     {
       "date": "2026-11-22",
+      "title": "提示词越写越长，AI 还是跑偏，问题可能出在资料、工具或验收环节。这篇把提示词、上下文、Harness 和 Loop 四层拆开讲清：说清任务、给对信息、配好工具与检查，再让整套流程自动运行。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-22",
       "title": "作者整理了一份第二届GEO大会Day 2的笔记，主要汇总了8个分享主题、2场实操和13轮答疑，覆盖国内视频矩阵、海外媒体合作、AI 产品增长与个人品牌经营。对GEO感兴趣的大家，不要错过！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "Antigravity 还能拿来做什么？这份实战手册把使用场景扩展到了视频分镜拆解、深度长文写作和定时任务，从安装配置、模型选择到多个 Agent 分工协作，都配了可复用的命令与提示词。可以上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -33,7 +43,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 42,
+  "count_7d": 44,
   "updates_7d": [
     {
       "date": "2026-11-22",
@@ -52,7 +62,17 @@
     },
     {
       "date": "2026-11-22",
+      "title": "提示词越写越长，AI 还是跑偏，问题可能出在资料、工具或验收环节。这篇把提示词、上下文、Harness 和 Loop 四层拆开讲清：说清任务、给对信息、配好工具与检查，再让整套流程自动运行。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-22",
       "title": "作者整理了一份第二届GEO大会Day 2的笔记，主要汇总了8个分享主题、2场实操和13轮答疑，覆盖国内视频矩阵、海外媒体合作、AI 产品增长与个人品牌经营。对GEO感兴趣的大家，不要错过！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "Antigravity 还能拿来做什么？这份实战手册把使用场景扩展到了视频分镜拆解、深度长文写作和定时任务，从安装配置、模型选择到多个 Agent 分工协作，都配了可复用的命令与提示词。可以上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
